@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/Users/burakgon/NetBeansProjects/One%20Way%20Authenticator/src/com/burakgon/onewayauth/auth/AuthManager.java</file>
+            <file>file:/Users/burakgon/NetBeansProjects/One%20Way%20Authenticator/src/com/burakgon/onewayauth/auth/SHA256Auth.java</file>
+            <file>file:/Users/burakgon/NetBeansProjects/One%20Way%20Authenticator/src/com/burakgon/onewayauth/auth/MD5Auth.java</file>
+            <file>file:/Users/burakgon/NetBeansProjects/One%20Way%20Authenticator/src/com/burakgon/onewayauth/GeneratorUI.java</file>
+            <file>file:/Users/burakgon/NetBeansProjects/One%20Way%20Authenticator/src/com/burakgon/onewayauth/auth/AuthMethods.java</file>
+        </group>
+    </open-files>
+</project-private>
